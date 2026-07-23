@@ -4,7 +4,7 @@
 **CPU:** 2 × AMD EPYC 9825 (Zen 5 "Turin", 144c/socket, 576 threads, AVX-512) · **RAM:** 1 TiB · **GPU:** none → **CPU-only inference**
 **Backend:** Ollama (0.24.x) · **UI:** Open WebUI (0.9.x) · **Proxy:** Nginx, plain HTTP on the LAN IP (no SSL)
 
----
+--- Neha
 
 ## The decision, up front
 
